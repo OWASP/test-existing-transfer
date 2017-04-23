@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "Eddie Example",
+    "description": "Its a system to do all kinds of wonderful things."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Ralf Reviewer"
+  },
+  "location": {
+    "organisation": "matt-tesauro",
+    "repo": "test-existing-transfer",
+    "branch": "master",
+    "model": "Test Threat Model"
+  }
+}
